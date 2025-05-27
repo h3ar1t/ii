@@ -2,3 +2,4 @@ streamlit
 konlpy
 mecab-python3
 matplotlib
+wordcloud
